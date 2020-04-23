@@ -1,6 +1,6 @@
 # SILVA-CRAS SEPPO
 
-os acuerdos de conservación de bosques a nivel predial en el piedemonte Caquetá, Programa Conservación y Gobernanza-Patrimonio Natural 
+Proyecto: Sistema para la toma de decisiones en el marco de los acuerdos de conservación de bosques a nivel predial en el piedemonte Caquetá, Programa Conservación y gobernanza. Patrimonio Natural, financiado por USAID.
 
 
 Josef Kellndorfer, Ph.D., President and Senior Scientist, Earth Big Data, LLC
