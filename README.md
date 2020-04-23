@@ -11,6 +11,7 @@ Fecha revisión: Pendiente
 
 Develop a remote semi-automated monitoring system for deforestation monitoring, functional, scalable, robust and cost-efficient; producing automated deforestation reports, and providing information of the location and extension of deforestation events in the Piedmont of Caquetá.
 
+This repositiry is to share change detection routines for deforestation quaterly reports based on Sentinel-1 imagery. This repository is designed to articule teams from The colombian forest and carbon monitoring system, Patrimonio Natural and the developers of the solution.
 
 
 Radar remote sensing, cloud processing, big data, authomatization, decision making, change detection, deforestation,
