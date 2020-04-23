@@ -16,8 +16,9 @@ Develop a remote semi-automated monitoring system for deforestation monitoring, 
 Radar remote sensing, cloud processing, big data, authomatization, decision making, change detection, deforestation,
 Specific:
 
-    To integrate into the C&G (Conservation and Governance) Program decision-making proccess and the evaluation of impact indicators.
-    Estimate the deforestation's reduction along with the route for its technological adoption, as a tool to improve the proccesses of monitoring compliance for the conservation agreements signed under the Conservation and Governance Program.
+To integrate into the C&G (Conservation and Governance) Program decision-making proccess and the evaluation of impact indicators.
+
+Estimate the deforestation's reduction along with the route for its technological adoption, as a tool to improve the proccesses of monitoring compliance for the conservation agreements signed under the Conservation and Governance Program.
 
 ## Instalación de Software y Datos
 
