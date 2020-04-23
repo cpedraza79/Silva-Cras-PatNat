@@ -1,6 +1,6 @@
 # SILVA-CRAS SEPPO
 
-Proyecto: Sistema para la toma de decisiones en el marco de los acuerdos de conservación de bosques a nivel predial en el piedemonte Caquetá, Programa Conservación y gobernanza. Patrimonio Natural, financiado por USAID.
+Proyecto: System for decision-making within the framework of forest conservation agreements at the property level in the Caquetá foothills of the colombian Amazon, Conservation and Governance Program -Patrimonio Natural, funded by USAID.
 
 
 Josef Kellndorfer, Ph.D., President and Senior Scientist, Earth Big Data, LLC
@@ -23,6 +23,9 @@ Estimate the deforestation's reduction along with the route for its technologica
 
 ## Instalación de Software y Datos
 
-Por favor referirse a los documentos de **INSTALACIÓN** y **DATA-HOW TO**.
+Please refer to the **INSTALLATION** and **DATA-HOW TO** documents.
 
-Los datos de series de tiempo fueron pre-procesados con ***S**oftware for **E**arth Big Data **P**rocessing, **P**rediction Modeling and **O**rganization* (SEPPO) EARTH BIG DATA utilizando rutinas de procesamiento basadas en la nube a través de Amazon Web Services (AWS). SEPPO permite realizar el procesamiento completo de grandes volumenes de datos SAR (y otros productos de sensores remotos) para construir datos de series de tiempo eficeintemente. The data format guide **EBD_README** explains data structures and filenaming conventions for data sets produced by EARTH BIG DATA, LLC.
+The time series data was pre-processed with ***S**software for **E**arth Big Data **P**rocessing, **P**rediction Modeling and **O**organization* (SEPPO) EARTH BIG DATA using cloud-based processing routines through Amazon Web Services (AWS). SEPPO enables the complete processing of large volumes of SAR data (and other remote sensing products) to efficiently build time series data. The data format guide **EBD_README** explains data structures and filenaming conventions for data sets produced by EARTH BIG DATA, LLC.
+
+
+! [The Team] (https://github.com/cpedraza79/Silva-Cras-PatNat/issues/1#issue-605716871)
