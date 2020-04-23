@@ -1,6 +1,6 @@
-# SILVA-CRAS SEPPO
+# SILVA-CRAS
 
-## Proyecto: System for decision-making within the framework of forest conservation agreements at the property level in the Caquetá foothills of the colombian Amazon, Conservation and Governance Program -Patrimonio Natural, funded by USAID.
+## Proyect: System for decision-making within the framework of forest conservation agreements at the property level in the Caquetá foothills of the colombian Amazon, Conservation and Governance Program -Patrimonio Natural, funded by USAID.
 
 Develop a remote semi-automated monitoring system for deforestation monitoring, functional, scalable, robust and cost-efficient; producing automated deforestation reports, and providing information of the location and extension of deforestation events in the Piedmont of Caquetá.
 
