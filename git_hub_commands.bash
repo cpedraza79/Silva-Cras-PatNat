@@ -89,9 +89,19 @@ git clone https://github.com/cpedraza79/Silva-Cras-PatNat.git
 
 git remote -v
 
-#
+# FETCH
 
+#Download objects and refs form another repository, pulls down from
+#remote repository. Don't automatically merge it wit my local work
 
+git fetch origin
+
+# PULL
+
+#if my current branch is set up to track the remote branch, use
+#PULL to authomatically fetch and then merge that remote branch in local
+
+git pull origin 
 
 
 
