@@ -101,7 +101,15 @@ git fetch origin
 #if my current branch is set up to track the remote branch, use
 #PULL to authomatically fetch and then merge that remote branch in local
 
-git pull origin 
+git pull origin
+
+# PUSH
+
+#share from my local branch to remote branch
+
+git push origin master
+
+git remote show origin
 
 
 
