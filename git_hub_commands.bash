@@ -124,10 +124,16 @@ git branch smbyc
 
 git log --oneline --decorate --graph --all
 
-## LET'S MERGE 
+## LET'S MERGE CAHNGES IN TWO DIFFERENT BRANCH (change and smbyc)
 
 ## first we will update some modificatios made on a file to the change branch
 
-git chackout change
+#let's point the head to change branch
 
-#let make the change on the file
+git checkout change
+
+#let check if is a modification to be commited
+
+Cambio bajo el branch change [issue 1]
+
+git status
