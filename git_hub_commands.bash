@@ -135,7 +135,16 @@ git checkout change
 #let check if is a modification to be commited
 
 
+Cambio bajo el branch change [issue 1]
 
 git status
 
+
+
+git status
+
+
 vamos a ver si por aca se activa el branch smbyc en git
+
+
+cambio branch smbyc issue 2
