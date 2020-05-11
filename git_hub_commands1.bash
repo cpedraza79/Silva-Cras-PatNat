@@ -1,4 +1,5 @@
-# Commands for git totrack changes from Working directory,stage to
+#CARLOS ES UN PUTAS
+#Commands for git totrack changes from Working directory,stage to
 #repository
 
 # GIT help
