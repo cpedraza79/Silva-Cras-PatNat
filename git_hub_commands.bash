@@ -134,6 +134,15 @@ git checkout change
 
 #let check if is a modification to be commited
 
+<<<<<<< HEAD
 Cambio bajo el branch change [issue 1]
 
 git status
+=======
+
+
+git status
+
+
+cambio branch smbyc issue 2
+>>>>>>> smbyc
