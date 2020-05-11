@@ -33,7 +33,7 @@ git difftool
 
 # To comit changes there is two options
 
-#commit adding a description for example:story 13 includes git commands
+#commit adding a description for example: story 13 includes git commands
 
 git commit -m "story 13 includes git commands"
 
