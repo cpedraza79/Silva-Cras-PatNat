@@ -25,7 +25,7 @@ git status
 git add <name of file>
 
 
-# Details of changes. to know exactly what you changed, not just which 
+# Details of changes. to know exactly what you changed, not just which
 #files were
 # changed — you can use the git diff command
 
@@ -64,7 +64,7 @@ git log --stat
 
 # OR
 
-git log 
+git log
 
 # OR include a time-limiting option
 
@@ -111,14 +111,23 @@ git push origin master
 
 git remote show origin
 
+# Create a branch
+
+# we will create two branches <change> for change detection routines for EBD
+#and <smbyc> for articulation with IDEAM
 
 
+git branch change
+
+git branch smbyc
 
 
+git log --oneline --decorate --graph --all
 
+## LET'S MERGE 
 
+## first we will update some modificatios made on a file to the change branch
 
+git chackout change
 
-
-
-
+#let make the change on the file
