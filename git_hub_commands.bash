@@ -138,5 +138,4 @@ git checkout change
 
 git status
 
-
-cambio branch smbyc issue 2
+vamos a ver si por aca se activa el branch smbyc en git
