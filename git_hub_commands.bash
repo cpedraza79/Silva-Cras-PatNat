@@ -138,7 +138,10 @@ git checkout change
 Cambio bajo el branch change [issue 1]
 
 git status
+<<<<<<< HEAD
+=======
 
+>>>>>>> 0fe270d3b143686027b560d827cdf97c9bd6e499
 
 
 git status
@@ -148,3 +151,8 @@ vamos a ver si por aca se activa el branch smbyc en git
 
 
 cambio branch smbyc issue 2
+<<<<<<< HEAD
+
+# Cambio para montar sobre el branch change de github
+=======
+>>>>>>> 0fe270d3b143686027b560d827cdf97c9bd6e499
